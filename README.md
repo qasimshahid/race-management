@@ -1,8 +1,8 @@
-# CS 321 - Project Race Car
+Project Race Car
 
 ## Introduction:
 
-This is the git hub page for the Race Management Team. Repository used to keep baseline for CS321's term long project integrated. Here we will keep documentation and source code. (We will add more to this page.)
+This is the git hub page for the Race Management Team. Here we will keep documentation and source code.
 
 
 
